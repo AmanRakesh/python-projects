@@ -1,0 +1,4 @@
+easy way - the most basic form that doesn't require anything and not much coding as well 
+fine way - use of classes and better form of coding by including more modules with neccessary files
+good way - now we are improving the good code above and making it more presentable & hassle free
+great way - improve the code to provide the real world use case (GUI, memory etc.)
